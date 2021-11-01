@@ -22,8 +22,7 @@
  
 <h2 align="center" top=20>Hi there 👋, I'm Joyce!</h2>
 
-- 🔭 I’m currently working on TCP, webSocket, Databases and more
-- 🌱 I'm currently participating in an educational retreat @[The Recurse Center](https://www.recurse.com/)
+- 🔭 I’m currently working on TCP, webSocket, Databases and more @[The Recurse Center](https://www.recurse.com/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Juggling is one of my favourite pastime activities
 
