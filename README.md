@@ -22,9 +22,6 @@
  
 <h2 align="center" top=20>Hi there 👋, I'm Joyce!</h2>
 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Juggling is one of my favourite pastime activities
-
 <!--
 **Joyce-O/Joyce-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
