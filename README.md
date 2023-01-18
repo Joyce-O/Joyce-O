@@ -1,10 +1,5 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joyce-O&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Joyce-O/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joyce-O&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joyce-O&theme=neon-palenight&hide_border=true)
 
 
